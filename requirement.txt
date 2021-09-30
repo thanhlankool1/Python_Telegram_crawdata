@@ -1,0 +1,4 @@
+telebot==0.0.3
+telegram==0.0.1
+pyTelegramBotAPI==3.6.7
+prettytable
